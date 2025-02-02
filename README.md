@@ -34,6 +34,8 @@
 - **C**
 - **Python**
 - **JavaScript**
+- **Java**
+- **R**
 
 #### **Web Development**:
 - **HTML5**
